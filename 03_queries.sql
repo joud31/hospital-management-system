@@ -1,8 +1,3 @@
--- ============================================================
--- Hospital Management System - Queries (52)
--- Transcribed from PowerPoint screenshots (slides 31-82)
--- ============================================================
-
 -- Query 1: Show equipment_name, sub-department and wardroom number for each equipment that needs checking, ordered by wardroom_id ascending
 select name as Equipment_name, sub_dept_name, Equipment.wardroom_id
 from Equipment inner join wardrooms on (Equipment.wardroom_id=wardrooms.wardroom_id)

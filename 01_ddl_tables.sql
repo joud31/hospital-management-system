@@ -1,8 +1,3 @@
--- ============================================================
--- Hospital Management System - Data Definition Language (DDL)
--- Transcribed from PowerPoint screenshots (slides 6-9)
--- ============================================================
-
 -- Table: Department
 create table Department(
     Department_name varchar(50) primary key,

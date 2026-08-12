@@ -1,8 +1,3 @@
--- ============================================================
--- Hospital Management System - Views
--- Transcribed from PowerPoint screenshots (slides 10-15)
--- ============================================================
-
 -- Question 1: Create a view to enter appointment details for the doctor with doctor_id = 'D0001'
 create view D0001_Appointments as
 select *
