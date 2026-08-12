@@ -15,9 +15,6 @@ operations.
 - **`03_queries.sql`** — 52 queries (joins, aggregation, subqueries, `CASE`,
   `GROUP BY`/`HAVING`, `ALTER`, etc.)
 - **`images/`** — reference screenshots of the original queries/views
-- **`REVIEW_NOTES.md`** — a few small discrepancies found during transcription
-  (typos in the original slides, one column-name mismatch) worth a proofread
-  pass before reuse
 
 ## Stack
 
